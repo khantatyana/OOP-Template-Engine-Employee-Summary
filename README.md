@@ -10,7 +10,7 @@ so that I have quick access to emails and GitHub profiles
 ```
 ## Description
 
-![Image Alt Text](/assets/video.gif)
+![Image Alt Text](/Assets/video.gif)
 
 This app (software engineering team generator command line application) is built with `Node CLI` that takes in information about employees and generates an HTML webpage that displays summaries for each person. 
 * Using JEST testing 
@@ -81,3 +81,4 @@ The project must generate a `team.html` page in the `output` directory, that dis
   * ID
 
   * Role-specific property (School, link to GitHub profile, or office number)
+  ![demo](./Assets/Pic.png)
